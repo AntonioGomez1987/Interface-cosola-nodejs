@@ -1,0 +1,17 @@
+{
+  "name": "04-tareas-hacer",
+  "version": "1.0.0",
+  "description": "aplicacion de menu en una consola",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Antonio Gomez",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^9.1.4",
+    "uuid": "^9.0.0"
+  }
+}
